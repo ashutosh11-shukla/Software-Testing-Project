@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Overview  
+## 📌 Overview 
 Welcome to my **Software Testing Reports Portfolio** 👋  
 
 This repository is a **central hub for my QA work**, designed to demonstrate my ability to:  
@@ -72,9 +72,8 @@ I combine a structured approach with attention to detail to identify defects ear
 ---
 
 ## 🤝 Connect With Me  
-
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link]  
-- 📧 **Email:** [Your Email]  
+  
+- 📧 **Email:** as1808224@gmail.com 
 
 > 📢 *This repository is continuously updated to reflect my latest work in software testing, helping recruiters evaluate my skills and growth.*
 
